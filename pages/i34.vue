@@ -2,14 +2,14 @@
   <div>
     <Header />
     <NavBarQuestions />
-    <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>1. Rota Acessível<br /><br /></h4>
+    <h1>Seção 3 - Mobiliário e Equipamentos</h1>
+    <h4>34. Balcão, bilheterias e balcões de informação<br /><br /></h4>
 
     <div>
-      <form action="/i2">
+      <form action="/i35">
         <p>
-          1. Existe rota acessível que conecta os ambientes externos e internos,
-          inclusive estacionamento de veículos?
+          230. Os balcões de atendimento acessíveis são facilmente identificados
+          e localizados em rotas acessíveis?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -19,8 +19,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          2. A rota acessível é toda provida de iluminação natural ou
-          artificial?
+          231. Os balcões de atendimento acessíveis garantem a aproximação
+          frontal e circulação adjacente que permita giro de 180° à P.C.R.?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -30,9 +30,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          3. Se é construção nova, todas as entradas são acessíveis ou, se
-          construção existente, possui pelo menos uma entrada acessível a cada
-          50 metros?
+          232. A face do atendente em balcões de atendimento acessíveis é
+          uniformemente iluminada?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -42,8 +41,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          4. Os desníveis das soleiras das portas, se houverem, são
-          adequadamente tratados?
+          233. Balcões de atendimento acessíveis têm superfície com largura
+          mínima de 0,90 m e altura entre 0,75 m a 0,85 m do piso acabado, com
+          largura livre mínima sob a superfície de 0,80 m?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -53,7 +53,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          5. Os acessos são livres de quaisquer obstáculos de forma permanente?
+          234. Os balcões de atendimento acessíveis têm altura livre sob o tampo
+          de no mínimo 0,73 m e profundidade livre mínima de 0,30 m?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -63,30 +64,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          6. Quando houver equipamentos de controle de acesso através de
-          catracas ou outras formas semelhantes de bloqueio, existem
-          dispositivos, passagens, portas ou portões com vão livre mínimo de
-          0,80 m de largura?
+          235. Existem condições de circulação, manobra, aproximação e alcance
+          para pessoas com deficiência na função de atendente?
         </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          7. Se houver porta giratória, há junto a ela outra entrada que garanta
-          as condições de acessibilidade?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>8. As rotas acessíveis estão sem tapetes?</p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
         <input type="radio" id="no" name="option" />

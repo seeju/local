@@ -2,14 +2,23 @@
   <div>
     <Header />
     <NavBarQuestions />
-    <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>2. Circulação Externa - Calçadas das vias públicas<br /><br /></h4>
+    <h1>Seção 3 - Mobiliário e Equipamentos</h1>
+    <h4>27. Sanitários, banheiros e vestiários - Lavatório<br /><br /></h4>
 
     <div>
-      <form action="/i3">
+      <form action="/i28">
+        <p>198. O lavatório é sem coluna ou com coluna suspensa?</p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
         <p>
-          9. Os desníveis entre o lote e o nível da calçada são vencidos sempre
-          no interior do lote?
+          199. Os lavatórios garantem altura frontal livre na superfície
+          inferior e na superfície superior a altura varia entre 0,78 m a 0,80
+          m?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -19,8 +28,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          10. Desníveis de qualquer natureza, se inevitáveis na rota acessível,
-          são adequadamente tratados?
+          200. Os lavatórios acessíveis possibilitam a área de aproximação de
+          uma pessoa em cadeira de rodas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -30,8 +39,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          11. A inclinação longitudinal da superfície é inferior a 5 % e a
-          inclinação transversal é, no máximo, 3%?
+          201. As bancadas de lavatórios têm pelo menos uma cuba com superfície
+          superior entre 0,78 m e 0,80 m, e livre inferior de 0,73 m?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -41,8 +50,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          12. A calçada possui largura livre mínima de 1,20 m (desejável 1,50m),
-          com faixa de serviço de no mínimo 0,70 m?
+          202. As torneiras são acionadas por alavancas, sensores eletrônicos ou
+          dispositivos equivalentes?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -52,8 +61,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          13. As zonas de circulação estão livres de obstáculos e livres de
-          qualquer interferência de até 2,10 m?
+          203. Torneiras com ciclo automático têm ciclo de fechamento de 10 s a
+          20 s?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -63,34 +72,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          14. Vãos de grelhas e juntas de dilatação, se inevitáveis no fluxo
-          principal de circulação, têm dimensão máxima de 15 mm, e estão
-          instalados perpendicularmente ao fluxo principal ou são de formato
-          quadrado/circular se houver fluxo em mais de um sentido?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          15. A superfície das tampas de caixas de inspeção e de visita estão
-          niveladas com o piso adjacente e são firmes, estáveis e
-          antiderrapantes sob qualquer condição (seco ou molhado)?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          16. Os materiais de revestimento e acabamento têm superfície regular,
-          firme, estável e não trepidante para dispositivos com rodas e
-          antiderrapantes, sob qualquer condição (seco ou molhado)?
+          204. Existem barras de apoio nos lavatórios horizontais instaladas a
+          uma altura entre 0,78 e 0,80 m ou verticais instaladas a uma altura
+          mínima de 0,90m do piso, com comprimento mínimo de 0,40m?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />

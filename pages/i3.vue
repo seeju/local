@@ -3,94 +3,78 @@
     <Header />
     <NavBarQuestions />
     <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>2. Circulação Externa - Calçadas das vias públicas<br /><br /></h4>
+    <h4>
+      3. Circulação Externa - Guias rebaixadas para pedestres e veículos<br /><br />
+    </h4>
 
     <div>
-      <form action="/i3">
+      <form action="/i4">
         <p>
-          9. Os desníveis entre o lote e o nível da calçada são vencidos sempre
+          17. A guia rebaixada de pedestre está localizada em frente a faixa de
+          pedestres?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          18. A rampa principal da guia rebaixada de pedestre tem inclinação
+          máxima de 8,33% e largura mínima de 1,20m?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          19. Existe continuidade entre o piso da rampa da guia rebaixada de
+          pedestre e da via pública, sem ressaltos ou degraus?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          20. Existe correspondência da guia rebaixada de pedestre com outra
+          rampa do lado oposto?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>21. O piso da rampa é em material antiderrapante?</p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          22. A guia rebaixada para veículos respeita a faixa exclusiva de
+          pedestres, deixando a calçada nivelada e sem cortes?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          23. Eventuais desníveis na guia rebaixada para veículos são vencidos
           no interior do lote?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          10. Desníveis de qualquer natureza, se inevitáveis na rota acessível,
-          são adequadamente tratados?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          11. A inclinação longitudinal da superfície é inferior a 5 % e a
-          inclinação transversal é, no máximo, 3%?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          12. A calçada possui largura livre mínima de 1,20 m (desejável 1,50m),
-          com faixa de serviço de no mínimo 0,70 m?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          13. As zonas de circulação estão livres de obstáculos e livres de
-          qualquer interferência de até 2,10 m?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          14. Vãos de grelhas e juntas de dilatação, se inevitáveis no fluxo
-          principal de circulação, têm dimensão máxima de 15 mm, e estão
-          instalados perpendicularmente ao fluxo principal ou são de formato
-          quadrado/circular se houver fluxo em mais de um sentido?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          15. A superfície das tampas de caixas de inspeção e de visita estão
-          niveladas com o piso adjacente e são firmes, estáveis e
-          antiderrapantes sob qualquer condição (seco ou molhado)?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          16. Os materiais de revestimento e acabamento têm superfície regular,
-          firme, estável e não trepidante para dispositivos com rodas e
-          antiderrapantes, sob qualquer condição (seco ou molhado)?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />

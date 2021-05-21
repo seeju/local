@@ -3,13 +3,13 @@
     <Header />
     <NavBarQuestions />
     <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>2. Circulação Externa - Calçadas das vias públicas<br /><br /></h4>
+    <h4>8. Escadas<br /><br /></h4>
 
     <div>
-      <form action="/i3">
+      <form action="/i10">
         <p>
-          9. Os desníveis entre o lote e o nível da calçada são vencidos sempre
-          no interior do lote?
+          61. As rampas têm largura mínima de 1,20 metros (aceitável 0,90 em
+          reforma)?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -19,8 +19,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          10. Desníveis de qualquer natureza, se inevitáveis na rota acessível,
-          são adequadamente tratados?
+          62. Os patamares (no início, no término e intermediários) têm no
+          mínimo 1,20 metros de comprimento?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -30,8 +30,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          11. A inclinação longitudinal da superfície é inferior a 5 % e a
-          inclinação transversal é, no máximo, 3%?
+          63. A inclinação longitudinal máxima é de 8,33% (em reformas,
+          admite-se até 12,5%) e a inclinação transversal é no máximo 2% para
+          rampas internas e 3% para rampas externas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -41,8 +42,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          12. A calçada possui largura livre mínima de 1,20 m (desejável 1,50m),
-          com faixa de serviço de no mínimo 0,70 m?
+          64. Existe corrimão de duas alturas em cada lado da rampa (0,92 e 070
+          metros do piso, medido do patamar)?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -52,8 +53,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          13. As zonas de circulação estão livres de obstáculos e livres de
-          qualquer interferência de até 2,10 m?
+          65. O corrimão possui seção circular entre 3.0cm e 4.5cm, com espaço
+          livre entre a parede e o corrimão de, no mínimo, 4cm?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -63,10 +64,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          14. Vãos de grelhas e juntas de dilatação, se inevitáveis no fluxo
-          principal de circulação, têm dimensão máxima de 15 mm, e estão
-          instalados perpendicularmente ao fluxo principal ou são de formato
-          quadrado/circular se houver fluxo em mais de um sentido?
+          66. Se não houver parede lateral, existe guia de balizamento com
+          altura mínima de 0,05 metros?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -76,9 +75,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          15. A superfície das tampas de caixas de inspeção e de visita estão
-          niveladas com o piso adjacente e são firmes, estáveis e
-          antiderrapantes sob qualquer condição (seco ou molhado)?
+          67. Quando existirem guarda-corpo, esses têm altura mínima de 1,10
+          metros e atendem a NBR 14718?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -88,9 +86,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          16. Os materiais de revestimento e acabamento têm superfície regular,
-          firme, estável e não trepidante para dispositivos com rodas e
-          antiderrapantes, sob qualquer condição (seco ou molhado)?
+          68. Existe corrimão intermediário em rampas com largura superior a
+          2,40 metros?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />

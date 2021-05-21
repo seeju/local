@@ -2,14 +2,16 @@
   <div>
     <Header />
     <NavBarQuestions />
-    <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>2. Circulação Externa - Calçadas das vias públicas<br /><br /></h4>
+    <h1>Seção 3 - Mobiliário e Equipamentos</h1>
+    <h4>
+      24. Sanitários, banheiros e vestiários - Condições gerais<br /><br />
+    </h4>
 
     <div>
-      <form action="/i3">
+      <form action="/i25">
         <p>
-          9. Os desníveis entre o lote e o nível da calçada são vencidos sempre
-          no interior do lote?
+          178. Os sanitários, banheiros e vestiários acessíveis estão
+          localizados em rotas acessíveis, próximas à circulação principal?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -19,8 +21,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          10. Desníveis de qualquer natureza, se inevitáveis na rota acessível,
-          são adequadamente tratados?
+          179. A distância máxima a ser percorrida de qualquer ponto da
+          edificação até um sanitário ou banheiro acessível é de até 50 m?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -30,8 +32,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          11. A inclinação longitudinal da superfície é inferior a 5 % e a
-          inclinação transversal é, no máximo, 3%?
+          180. Os sanitários, banheiros e vestiários acessíveis têm entrada
+          independente, permitindo uso com acompanhante de sexo oposto?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -41,8 +43,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          12. A calçada possui largura livre mínima de 1,20 m (desejável 1,50m),
-          com faixa de serviço de no mínimo 0,70 m?
+          181. Existe pelo menos 5% do número de peças sanitárias acessíveis,
+          com no mínimo uma de cada por sexo e pelo menos um sanitário acessível
+          por andar?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -52,8 +55,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          13. As zonas de circulação estão livres de obstáculos e livres de
-          qualquer interferência de até 2,10 m?
+          182. Os pisos dos sanitários ou boxes sanitários são antiderrapantes,
+          sem desníveis junto à entrada e têm grelhas e ralos posicionados fora
+          das áreas de manobra e de transferência?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -63,10 +67,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          14. Vãos de grelhas e juntas de dilatação, se inevitáveis no fluxo
-          principal de circulação, têm dimensão máxima de 15 mm, e estão
-          instalados perpendicularmente ao fluxo principal ou são de formato
-          quadrado/circular se houver fluxo em mais de um sentido?
+          183. As dimensões do sanitário e o posicionamento das peças sanitárias
+          permitem o giro de 360º de uma pessoa em cadeira de rodas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -76,9 +78,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          15. A superfície das tampas de caixas de inspeção e de visita estão
-          niveladas com o piso adjacente e são firmes, estáveis e
-          antiderrapantes sob qualquer condição (seco ou molhado)?
+          184. As portas, quando abertas, têm um vão livre maior ou igual a 0,80
+          m de largura e 2,10 m de altura?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -88,9 +89,31 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          16. Os materiais de revestimento e acabamento têm superfície regular,
-          firme, estável e não trepidante para dispositivos com rodas e
-          antiderrapantes, sob qualquer condição (seco ou molhado)?
+          185. Em locais de prática de esportes, as portas devem têm vão livre
+          mínimo de 1,00 m?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          186. Em portas de correr, trilhos e guias estão nivelados com a
+          superfície do piso e frestas na guia inferior são menores do que 15
+          mm?
+        </p>
+        <input type="radio" id="yes" name="option" />
+        <label for="yes">Sim</label><br />
+        <input type="radio" id="no" name="option" />
+        <label for="no">Não</label><br />
+        <input type="radio" id="na" name="option" />
+        <label for="na">N/A</label><br /><br />
+
+        <p>
+          187. Nos boxes de sanitários coletivos as portas têm vão livre mínimo
+          de 0,80m e área livre de no mínimo 0,60m de diâmetro?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />

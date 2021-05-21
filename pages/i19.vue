@@ -2,14 +2,14 @@
   <div>
     <Header />
     <NavBarQuestions />
-    <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>2. Circulação Externa - Calçadas das vias públicas<br /><br /></h4>
+    <h1>Seção 2 - Sinalização</h1>
+    <h4>19. Sinalização tátil e visual de alerta no piso<br /><br /></h4>
 
     <div>
-      <form action="/i3">
+      <form action="/i20">
         <p>
-          9. Os desníveis entre o lote e o nível da calçada são vencidos sempre
-          no interior do lote?
+          144. Existe piso tátil de alerta onde houver mudanças de direção ou
+          opções de percursos?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -19,8 +19,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          10. Desníveis de qualquer natureza, se inevitáveis na rota acessível,
-          são adequadamente tratados?
+          145. Existe sinalização tátil de alerta no piso indicando a existência
+          de desníveis ou outras situações de risco permanente, como objetos
+          suspensos não detectáveis pela bengala longa?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -30,8 +31,10 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          11. A inclinação longitudinal da superfície é inferior a 5 % e a
-          inclinação transversal é, no máximo, 3%?
+          146. Existe sinalização tátil de alerta no piso indicando a
+          localização e o posicionamento adequado da pessoa com deficiência
+          visual para o uso de equipamentos de autoatendimento, bilheterias,
+          balcão de atendimento e outros serviços?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -41,8 +44,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          12. A calçada possui largura livre mínima de 1,20 m (desejável 1,50m),
-          com faixa de serviço de no mínimo 0,70 m?
+          147. Existe sinalização tátil de alerta no piso indicando o início e o
+          término de escadas e rampas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -52,8 +55,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          13. As zonas de circulação estão livres de obstáculos e livres de
-          qualquer interferência de até 2,10 m?
+          148. Existe sinalização tátil de alerta no piso indicando o local de
+          travessia de pedestres?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -63,10 +66,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          14. Vãos de grelhas e juntas de dilatação, se inevitáveis no fluxo
-          principal de circulação, têm dimensão máxima de 15 mm, e estão
-          instalados perpendicularmente ao fluxo principal ou são de formato
-          quadrado/circular se houver fluxo em mais de um sentido?
+          149. Existe sinalização tátil de alerta no piso indicando escadas
+          rolantes e esteiras rolante?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -76,9 +77,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          15. A superfície das tampas de caixas de inspeção e de visita estão
-          niveladas com o piso adjacente e são firmes, estáveis e
-          antiderrapantes sob qualquer condição (seco ou molhado)?
+          150. Existe sinalização tátil de alerta no início e no final de cada
+          trecho de escada ou rampa, quando necessário?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -88,9 +88,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          16. Os materiais de revestimento e acabamento têm superfície regular,
-          firme, estável e não trepidante para dispositivos com rodas e
-          antiderrapantes, sob qualquer condição (seco ou molhado)?
+          151. Existe sinalização tátil de alerta indicando o limite de
+          plataformas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />

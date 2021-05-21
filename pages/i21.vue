@@ -2,14 +2,15 @@
   <div>
     <Header />
     <NavBarQuestions />
-    <h1>Seção 1 - Circulação e Acessos</h1>
-    <h4>1. Rota Acessível<br /><br /></h4>
+    <h1>Seção 2 - Sinalização</h1>
+    <h4>21. Sinalização tátil e visual de piso em calçadas<br /><br /></h4>
 
     <div>
-      <form action="/i2">
+      <form action="/i22">
         <p>
-          1. Existe rota acessível que conecta os ambientes externos e internos,
-          inclusive estacionamento de veículos?
+          165. Existe sinalização tátil direcional em calçadas contornando o
+          limite de lotes não edificados, onde exista descontinuidade da
+          referência edificada, ou quando o edifício estiver recuado?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -19,8 +20,7 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          2. A rota acessível é toda provida de iluminação natural ou
-          artificial?
+          166. Existe sinalização visual e tátil no piso em calçadas externas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -30,9 +30,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          3. Se é construção nova, todas as entradas são acessíveis ou, se
-          construção existente, possui pelo menos uma entrada acessível a cada
-          50 metros?
+          167. A sinalização tátil direcional está no eixo da faixa livre da
+          calçada?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -42,8 +41,8 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          4. Os desníveis das soleiras das portas, se houverem, são
-          adequadamente tratados?
+          168. Existe sinalização tátil direcional transversal à calçada,
+          marcando as áreas de travessia?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -53,7 +52,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          5. Os acessos são livres de quaisquer obstáculos de forma permanente?
+          169. Existe sinalização tátil direcional transversal à calçada para
+          identificar o acesso às passarelas elevadas e às travessias
+          subterrâneas?
         </p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
@@ -63,30 +64,9 @@
         <label for="na">N/A</label><br /><br />
 
         <p>
-          6. Quando houver equipamentos de controle de acesso através de
-          catracas ou outras formas semelhantes de bloqueio, existem
-          dispositivos, passagens, portas ou portões com vão livre mínimo de
-          0,80 m de largura?
+          170. Existe sinalização tátil direcional interligando as travessias em
+          ilhas?
         </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>
-          7. Se houver porta giratória, há junto a ela outra entrada que garanta
-          as condições de acessibilidade?
-        </p>
-        <input type="radio" id="yes" name="option" />
-        <label for="yes">Sim</label><br />
-        <input type="radio" id="no" name="option" />
-        <label for="no">Não</label><br />
-        <input type="radio" id="na" name="option" />
-        <label for="na">N/A</label><br /><br />
-
-        <p>8. As rotas acessíveis estão sem tapetes?</p>
         <input type="radio" id="yes" name="option" />
         <label for="yes">Sim</label><br />
         <input type="radio" id="no" name="option" />
