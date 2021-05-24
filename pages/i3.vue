@@ -83,7 +83,7 @@
         <input type="radio" id="na" name="option" />
         <label for="na">N/A</label><br /><br />
 
-        <input type="submit" value="Próximo" />
+        <input type="submit" value="Avançar" />
       </form>
     </div>
   </div>

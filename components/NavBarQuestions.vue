@@ -1,32 +1,23 @@
 <template>
-    <ul>
-        <li v-for="(section, index) in sections" :key="index"> <a href="#">{{ section }}</a> </li>
-    </ul>
+<div>
+  <b-pagination-nav :pages="pages1" use-router></b-pagination-nav>
+  <b-pagination-nav :pages="pages2" use-router></b-pagination-nav>
+  <b-pagination-nav :pages="pages3" use-router></b-pagination-nav>
+</div>
 </template>
 
 <script>
 export default {
-    name: "NavBar",
-    data(){
-        return {
-        sections: ['Circulação', 'Circulação', 'Circulação', 'Dashboard']
-        }
-     }
+  data() {
+    return {
+
+      pages2: [
+        { link: '?page=1', text: 'One' },
+        { link: '?page=2', text: 'Two' },
+        { link: '?page=3', text: 'Three' }
+      ],
+ 
+    }
+  }
 }
 </script>
-
-<style scoped>
-ul {
-    list-style: none;
-    display: flex;
-    text-align: center;
-    padding: 10px 10px;
-}
-
-li{
-    padding: 5px 10px;
-    margin-left: auto;
-    margin-right: auto;
-
-}
-</style>

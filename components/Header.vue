@@ -3,10 +3,10 @@
     <div id="header">
         <Logo />
         <ul>
-            <li><a href="#">Quem somos</a></li>
-            <li><a href="#">Lista de Verificação</a></li>
-            <li><a href="#">Solicite um orçamento</a></li>
-            <li><a href="#">Contato</a></li>
+            <li><a href="/quemsomos">Quem somos</a></li>
+            <li><a href="/lista">Lista de Verificação</a></li>
+            <li><a href="/orcamento">Solicite um orçamento</a></li>
+            <li><a href="/contato">Contato</a></li>
         </ul>
     </div>
 </div>

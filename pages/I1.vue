@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <Header />
-    <NavBarQuestions />
+  <div> 
     <h1>Seção 1 - Circulação e Acessos</h1>
     <h4>1. Rota Acessível<br /><br /></h4>
 
@@ -94,7 +92,7 @@
         <input type="radio" id="na" name="option" />
         <label for="na">N/A</label><br /><br />
 
-        <input type="submit" value="Próximo" />
+        <input type="submit" value="Avançar" />
       </form>
     </div>
   </div>
